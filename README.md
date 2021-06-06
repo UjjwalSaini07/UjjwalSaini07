@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
-- 📝 I regularly Update My Github page with new repositry [Github Username - Ujjwal2003saini](Github Username - Ujjwal2003saini)
+- 📝 I regularly Update My Github page with new repositry [Github Username - Ujjwal2003saini]
 
 - 💬 Ask me about **Python**
 
