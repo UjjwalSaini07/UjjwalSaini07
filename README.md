@@ -5,12 +5,7 @@
  
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini" alt="ujjwal2003saini" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ujjwalsaini07" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini07?logo=twitter&style=for-the-badge" alt="ujjwalsaini07" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/ujjwalsaini07" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini07?logo=twitter&style=for-the-badge" alt="ujjwalsaini07" /></a> </p>
 
 - 🔭 I’m currently working on [Intermediate to Master in Python](My all Courses Are in My Github)
 
@@ -29,6 +24,12 @@
 - 📫 How to reach me **ujjwalsaini7223@gmail.com**
 
 - 📄 Know about my experiences [Preparation for JEE To get CSE(MY AIM)](Preparation for JEE To get CSE(MY AIM))
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini" alt="ujjwal2003saini" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
