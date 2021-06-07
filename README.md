@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+ 
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini" alt="ujjwal2003saini" /></a> </p>
