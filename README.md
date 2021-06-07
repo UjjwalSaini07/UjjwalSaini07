@@ -46,15 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2003saini&show_icons=true&locale=en" alt="ujjwal2003saini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal2003saini&" alt="ujjwal2003saini" /></p>
-
-### Hi there 👋
-
-
-- 🔭 I’m currently preparation of JEE
-- 🌱 I’m currently learning CSS,HTML
-- 🤔 I’m looking for help with Python, Js
-- 💬 Ask me about Python-Tkinter,HTML
-- 📫 How to reach me: Twitter - @UjjwalSaini07
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: The world wastes about 1 billion metric tons of food each year.
-
