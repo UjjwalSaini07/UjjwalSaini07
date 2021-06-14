@@ -29,7 +29,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini" alt="ujjwal2003saini" /></a> </p>
 
-<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="490">
+<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="430">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2003saini&show_icons=true&locale=en" alt="ujjwal2003saini" /></p>
 
-<img align='right' src="https://www.weintern.in/blog/wp-content/uploads/2018/01/time-management.gif.pagespeed.ce.oNIIZOckF9.gif" width="340" height="200">
+<!-- <img align='right' src="https://www.weintern.in/blog/wp-content/uploads/2018/01/time-management.gif.pagespeed.ce.oNIIZOckF9.gif" width="340" height="200"> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal2003saini&" alt="ujjwal2003saini" /></p>
