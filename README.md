@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
 
-- 👯 I’m looking to Learn **Web Development (CSS,JS,HTML) & C Language**
+- 👯 I’m looking to Learn **Web Development (CSS,JS,HTML) **
 
-- 🤝 I’m looking for help in **JS,HTML,Python High level Course**
+- 🤝 I’m looking for help in **JS,HTML,Python Intermediate level Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
