@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Saini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi 👋, I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+<h3 align="center">A passionate frontend developer from India <img src="https://github.com/Ujjwal2003saini/Ujjwal2003saini/blob/main/Indian_Flag.gif"  width="40px"> </h3>
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
