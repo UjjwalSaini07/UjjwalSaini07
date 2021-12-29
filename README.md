@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
-<h3 align="center">A passionate frontend developer from India <img src="https://github.com/Ujjwal2003saini/Ujjwal2003saini/blob/main/Indian_Flag.gif"  width="40px"> </h3>
+<h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/Ujjwal2003saini/Ujjwal2003saini/blob/main/Indian_Flag.gif"  width="40px"> </h3>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -14,13 +14,13 @@
 
 - 👯 I’m looking to Learn **Web Development (CSS,JS,HTML) **
 
-- 🤝 I’m looking for help in **JS,HTML,Python Intermediate level Course**
+- 🤝 I’m looking for help in **JS,Python Intermediate level **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
 - 📝 I regularly Update My Github page with new repositry (Github Username - Ujjwal2003saini)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, HTML**
 
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 
