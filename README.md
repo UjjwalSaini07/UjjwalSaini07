@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on Intermediate level in Python
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+- 🌱 I’m currently learning Python, HTML, CSS, JS
 
-- 👯 I’m looking to Learn **Web Development (CSS,JS,HTML) **
+- 👯 I’m looking to Learn Web Development (CSS,JS,HTML)
 
-- 🤝 I’m looking for help in **JS, Python Intermediate level **
+- 🤝 I’m looking for help in JS, Python Intermediate level
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
 - 📝 I regularly Update My Github page with new repositry (Github Username - Ujjwal2003saini)
 
-- 💬 Ask me about **Python, HTML**
+- 💬 Ask me about Python, HTML
 
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 
