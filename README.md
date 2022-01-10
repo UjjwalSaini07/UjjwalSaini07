@@ -43,8 +43,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal2003saini&show_icons=true&locale=en&layout=compact" alt="ujjwal2003saini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2003saini&show_icons=true&locale=en" alt="ujjwal2003saini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal2003saini&" alt="ujjwal2003saini" /></p>
+<p>&nbsp;<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=Ujjwal2003saini&show_icons=true&theme=radical&count_private=true" alt="Ujjwal Saini GitHub stats"/></p>
+<p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2003saini&theme=radical" alt="GitHub Streak"/></p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+<!-- this is for another theme style in githuub stats -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2003saini&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats) -->
