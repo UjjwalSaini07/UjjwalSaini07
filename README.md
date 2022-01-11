@@ -6,19 +6,28 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalsaini07" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini07?logo=twitter&style=for-the-badge" alt="ujjwalsaini07" /></a> </p>
 
-- 🔭 I’m currently working on Intermediate level in Python
+- 🔭 I’m currently working on 
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
-- 🌱 I’m currently learning Python, HTML, CSS, JS
+- 🌱 I’m currently learning 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-- 👯 I’m looking to Learn Web Development (CSS,JS,HTML)
+- 💻 I work using:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-- 🤝 I’m looking for help in JS, Python Intermediate level
+- 🤝 I’m looking for help in 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
-- 📝 I regularly Update My Github page with new repositry (Github Username - Ujjwal2003saini)
-
-- 💬 Ask me about Python, HTML
+- 💬 Ask me about 
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 
