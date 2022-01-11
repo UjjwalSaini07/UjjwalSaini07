@@ -23,11 +23,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
-
 - 💬 Ask me about 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
 
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 
