@@ -24,10 +24,19 @@
 
 - 📄 Know about my experiences (Preparation for JEE To get CSE (MY AIM))
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p>
+![](https://komarev.com/ghpvc/?username=Ujjwal2003saini&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=Ujjwal2003saini.Ujjwal2003saini)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini&theme=monokai" alt="ujjwal2003saini" /></a> </p>
+<!-- For EMERGENCY Profile Views Badge -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p> -->
 
+<a href="https://github.com/Ujjwal2003saini/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Ujjwal2003saini/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Ujjwal2003saini&column=8&theme=monokai"/>
+</a>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini&theme=monokai" alt="ujjwal2003saini" /></a> </p>
+ -->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="460">
 
 <h3 align="left">Connect with me:</h3>
