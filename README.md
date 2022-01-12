@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
-<h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/Ujjwal2003saini/Ujjwal2003saini/blob/main/Indian_Flag.gif"  width="40px"> </h3>
+<h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Indian_Flag.gif"  width="40px"> </h3>
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -22,22 +22,22 @@
 - 💬 Ask me about 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-- 👨‍💻 All of my projects are available at [https://github.com/Ujjwal2003saini](https://github.com/Ujjwal2003saini)
+- 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 - 📄 Know about my experiences (Preparation for JEE To get CSE (MY AIM))
 
-![](https://komarev.com/ghpvc/?username=Ujjwal2003saini&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=Ujjwal2003saini.Ujjwal2003saini)
+![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07)
 
 <!-- For EMERGENCY Profile Views Badge -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2003saini&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2003saini" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UjjwalSaini07&label=Profile%20views&color=0e75b6&style=flat" alt="UjjwalSaini07" /> </p> -->
 
-<a href="https://github.com/Ujjwal2003saini/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/Ujjwal2003saini/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Ujjwal2003saini&column=8&theme=monokai"/>
+<a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/UjjwalSaini07/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=8&theme=monokai"/>
 </a>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2003saini&theme=monokai" alt="ujjwal2003saini" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&theme=monokai" alt="UjjwalSaini07" /></a> </p>
  -->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="460">
 
@@ -52,12 +52,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal2003saini&show_icons=true&theme=radical&count_private=true" alt="ujjwal2003saini" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true" alt="UjjwalSaini07" /></p>
 
-<p>&nbsp;<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=Ujjwal2003saini&show_icons=true&theme=radical&count_private=true" alt="Ujjwal Saini GitHub stats"/></p>
-<p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2003saini&theme=radical" alt="GitHub Streak"/></p>
+<p>&nbsp;<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true" alt="Ujjwal Saini GitHub stats"/></p>
+<p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical" alt="GitHub Streak"/></p>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /></p>
 
 <!-- this is for another theme style in githuub stats -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2003saini&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UjjwalSaini07&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats) -->
