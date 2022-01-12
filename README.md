@@ -24,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 - 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
-- 📄 Know about my experiences (Preparation for JEE To get CSE (MY AIM))
+- 📄 Know about my experiences Preparation for JEE 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07)
