@@ -22,8 +22,9 @@
 - 💬 Ask me about 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-- 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
+<a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
+- 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
 - 📄 Know about my experiences Preparation for JEE 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=brightgreen)
