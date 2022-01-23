@@ -26,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
 - 📄 Know about my experiences Preparation for JEE 
 
-![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07)
 
 <!-- For EMERGENCY Profile Views Badge -->
