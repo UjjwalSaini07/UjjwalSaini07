@@ -27,7 +27,9 @@
 - 📄 Know about my experiences Preparation for JEE 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
-![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07)
+![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
+<!-- colors : brightgreen, green, yellow, yellowgreen, orange, red, blue, blueviolet, ff69b4 -->
+<!-- styles : flat, flat-square	, plastic -->
 
 <!-- For EMERGENCY Profile Views Badge -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UjjwalSaini07&label=Profile%20views&color=0e75b6&style=flat" alt="UjjwalSaini07" /> </p> -->
