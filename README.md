@@ -28,6 +28,9 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
+<a href="https://github.com/UjjwalSaini07">
+    <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+</a>
 <!-- colors : brightgreen, green, yellow, yellowgreen, orange, red, blue, blueviolet, ff69b4 -->
 <!-- styles : flat, flat-square	, plastic -->
 
