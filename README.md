@@ -71,5 +71,8 @@
 
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/neon-line.gif" width="3050">
 <!-- <br> -->
-<h4 align = "center"> ⬇ Check my pinned projects below and leave a ⭐️ ⬇
+<!-- <h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> Check my pinned projects below and leave a ⭐️ <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> -->
+
+<h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25"> Check my Pinned Projects below and leave a <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Rotating-golden-star.gif" width="30"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25">
+
 </h4>
