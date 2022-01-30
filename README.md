@@ -28,7 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-29%2001%202022-red)](https://github.com/UjjwalSaini07)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-30%2001%202022-red)](https://github.com/UjjwalSaini07)
 <a href="https://github.com/UjjwalSaini07">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
@@ -73,6 +73,6 @@
 <!-- <br> -->
 <!-- <h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> Check my pinned projects below and leave a ⭐️ <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> -->
 
-<h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25"> Check my Pinned Projects below and leave a <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Rotating-golden-star.gif" width="30"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25">
+<h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25"> Check my Pinned Repositories below and leave a <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Rotating-golden-star.gif" width="30"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25">
 
 </h4>
