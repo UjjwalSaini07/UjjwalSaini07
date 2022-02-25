@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalsaini07" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini07?logo=twitter&style=for-the-badge" alt="ujjwalsaini07" /></a> </p>
 
-- 🔭 I’m currently working on 
+<!-- - 🔭 I’m currently working on 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 - 🌱 I’m currently learning 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -24,7 +24,29 @@
 - 📫 How to reach me **ujjwalsaini1947@gmail.com**
 <a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
 - 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
-- 📄 Know about my experiences Preparation for JEE 
+- 📄 Know about my experiences Preparation for JEE  -->
+
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_2.gif" width="27">I’m currently working on 
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_4.gif" width="27">I’m currently learning 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_5.gif" width="27">I work using:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+- 🤝 I’m looking for help in 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_pc.jpg" width="27"> Ask me about 
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me **ujjwalsaini1947@gmail.com**
+<a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
+- 👨‍💻 All of my projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_3.gif" width="27">Know about my experiences Preparation for JEE 
+
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
@@ -77,15 +99,17 @@
 
 </h4>
 
-<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_2.gif" width="30">
+<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_2.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_3.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_4.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_5.gif" width="30">
 <!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_6.gif" width="30"> -->
-<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_7.gif" width="30">
+<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_7.gif" width="30"> -->
 <!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_9.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_10.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
  -->
+<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_pc.jpg" width="30"> -->
