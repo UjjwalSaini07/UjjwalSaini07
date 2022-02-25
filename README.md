@@ -76,3 +76,16 @@
 <h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25"> Check my Pinned Repositories below and leave a <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Rotating-golden-star.gif" width="30"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25">
 
 </h4>
+
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_2.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_3.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_4.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_5.gif" width="30">
+<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_6.gif" width="30"> -->
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_7.gif" width="30">
+<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_9.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_10.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_8.gif" width="30">
+ -->
