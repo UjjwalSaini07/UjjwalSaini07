@@ -69,7 +69,7 @@
  -->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="380">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="37"></h3>
 <p align="left">
 <a href="https://twitter.com/ujjwalsaini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalsaini07" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16145422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16145422" height="30" width="40" /></a>
@@ -114,4 +114,3 @@
 <!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_pc.jpg" width="30"> -->
 
-<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="30">
