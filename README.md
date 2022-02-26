@@ -45,7 +45,7 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me **ujjwalsaini1947@gmail.com**
 <a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Lap.gif" width="26">All projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_3.gif" width="27">Know about my experiences Preparation for JEE 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_3.gif" width="25">Know about my experiences Preparation for JEE 
 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
