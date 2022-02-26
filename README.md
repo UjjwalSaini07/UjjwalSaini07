@@ -36,7 +36,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-- 🤝 I’m looking for help in 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="32">I’m looking for help in 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_pc.jpg" width="27"> Ask me about 
@@ -113,3 +113,5 @@
  -->
 <!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="30">
 <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_pc.jpg" width="30"> -->
+
+<img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="30">
