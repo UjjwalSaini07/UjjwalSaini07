@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="left"> <a href="https://twitter.com/ujjwalsaini07" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini07?logo=twitter&style=for-the-badge" alt="ujjwalsaini07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/UjjwalSaini0007" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsaini0007?logo=twitter&style=for-the-badge" alt="ujjwalsaini0007" /></a> </p>
 
 
 <!-- - 🔭 I’m currently working on 
