@@ -1,4 +1,19 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1>
+<!-- <div align="center">
+  <h1>
+    <a href="https://github.com/dawidolko/dawidolko">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">
+    </a>
+  </h1>
+</div> -->
+
+<!--<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1> -->
+<div align="center">
+  <h1>
+    <a href="https://github.com/dawidolko/dawidolko">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">
+    </a>
+  </h1>
+</div>
 <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
