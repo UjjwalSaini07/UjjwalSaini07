@@ -62,7 +62,7 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me **ujjwalsaini1947@gmail.com**
 <a href="mailto:ujjwalsaini1947+github@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Laptop.gif" width="24">Projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ThumbUp.gif" width="24">Know about my experiences Preparation for Mid-Semester Exam 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ThumbUp.gif" width="24">Know about my experiences Learning New Skills and Develop Knowledge with used into real Projects.  
 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
