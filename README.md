@@ -14,7 +14,8 @@
     </a>
   </h1>
 </div>
-<h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3>
+<!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3> -->
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=F7C213&vCenter=true&multiline=true&random=false&width=550&lines=A+passionate+Frontend%2FBackend+Developer+from+India" alt="Typing SVG" /></a></h3>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
