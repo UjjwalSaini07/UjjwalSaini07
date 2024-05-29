@@ -118,9 +118,15 @@
 <!-- <br> -->
 <!-- <h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> Check my pinned projects below and leave a ⭐️ <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="20"> -->
 
+<!---
 <h4 align = "center"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25"> Check my Pinned Repositories below and leave a <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Rotating-golden-star.gif" width="30"> <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="25">
-
 </h4>
+--->
+
+<h4 align = "center"> <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave++Star+Please" alt="Typing SVG"/> </a><img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="40">
+</h4>
+
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave+a+" alt="Typing SVG" /></a>--->
 
 <!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Flying_Cat.gif" width="30"> -->
 
