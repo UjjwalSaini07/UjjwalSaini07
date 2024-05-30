@@ -15,7 +15,8 @@
   </h1>
 </div>
 <!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3> -->
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=F7C213&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
+
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=FF4500&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 
 <!--%2FBackend &multiline=true-->
 
