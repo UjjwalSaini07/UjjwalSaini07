@@ -16,7 +16,9 @@
 </div>
 <!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3> -->
 
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=FF4500&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=FF4500&vCenter=true&random=false&width=580&height=20&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=510&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=00FF00&vCenter=true&random=false&width=580&height=20&lines=%20%20++++Always+learning,%20evolving+in+web+development" alt="Typing SVG" /></a></h3>
 <!--
 <h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=00FF00&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
@@ -70,7 +72,7 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me **ujjwalsaini1947@gmail.com**
 <a href="mailto:ujjwalsaini1947+github@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="30" width="45"/> </a>
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Laptop.gif" width="24">Projects are available at [https://github.com/UjjwalSaini07](https://github.com/UjjwalSaini07)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ThumbUp.gif" width="24">Know about my experiences Learning New Skills and Develop Knowledge.  
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects! Open to new opportunities and challenges  
 
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
