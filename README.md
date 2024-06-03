@@ -9,7 +9,7 @@
 <!--<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ujjwal Saini<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h1> -->
 <div align="center">
   <h1>
-    <a href="https://github.com/dawidolko/dawidolko">
+    <a href="https://github.com/UjjwalSaini07">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">
     </a>
   </h1>
@@ -77,7 +77,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-02%2006%202024-red)](https://github.com/UjjwalSaini07)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-03%2006%202024-red)](https://github.com/UjjwalSaini07)
 <a href="https://github.com/UjjwalSaini07">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
