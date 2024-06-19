@@ -73,6 +73,8 @@
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ShowingAnger.gif" width="24">Ask me about 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me [![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ujjwalsaini1947+github@gmail.com)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/ShowingLove.gif?raw=true" width="25">Show Some Love Using [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
   [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](#)
