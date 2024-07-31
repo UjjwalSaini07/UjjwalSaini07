@@ -74,7 +74,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&theme=monokai" alt="UjjwalSaini07" /></a> </p>
  -->
-<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="370">
+<img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="40"></h3>
 <p align="left">
@@ -115,9 +115,23 @@
 # **Badges:**
 
 <details>	
+ <summary><b>My Github Badges :</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/open-sourcerer-default.png?raw=true" width="100px" height="100px" />
+</a>
+</div>
+</details>
+
+<details>	
  <summary><b>My GSSOC(24) Badges :</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
