@@ -129,6 +129,20 @@
 <p>&nbsp;<img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true" alt="Ujjwal Saini GitHub stats"/></p>
 <p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical" alt="GitHub Streak"/></p>
 
+<details>	
+ <summary><b>My GSSOC(24) Badges :</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</a>
+</div>
+</details>
+
+
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /></p>
 
 <!-- this is for another theme style in githuub stats -->
