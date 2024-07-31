@@ -98,14 +98,14 @@
 --->
 # **Github Stats:**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false">-->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false"> -->
 </div>
 
