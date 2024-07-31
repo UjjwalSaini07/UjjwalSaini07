@@ -1,11 +1,12 @@
 <div align="center">
   <h1>
     <a href="https://github.com/UjjwalSaini07">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=38&pause=1000&color=EBA60E&center=true&vCenter=true&width=435&height=68&lines=Hii+There%2C+I'm+Ujjwal+%F0%9F%91%8B" alt="Ujjwal Hii" />
     </a>
   </h1>
 </div>
-<!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3> -->
+<!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">-->
 
 <h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=FF4500&vCenter=true&random=false&width=580&height=20&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=510&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
