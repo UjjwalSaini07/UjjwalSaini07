@@ -24,37 +24,39 @@
 
 <!--gfg Profile https://auth.geeksforgeeks.org/user/ujjwalsaini07/ --> 
 
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Shocking.gif" width="25">I’m currently working on 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_EyeFlikiring.gif" width="25">I’m currently learning 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="25">I’m currently learning 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_AngerVolcano.gif" width="25">I work using 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="32">I’m looking for help in 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="32">I’m looking for help in 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/UjjwalSaini07/)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
 [![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white)](#)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ShowingAnger.gif" width="24">Ask me about 
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingAnger.gif" width="24">Ask me about 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Msg.gif" width="27">How to reach me [![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ujjwalsaini1947+github@gmail.com)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/ShowingLove.gif?raw=true" width="25">Show Some Love On Clicking [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ujjwalsaini1947+github@gmail.com)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
+  [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
   [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GamingConsole.gif?raw=true" width="30">Interested In [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](#)
   [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white)](#)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Laptop.gif" width="24">Projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/UjjwalSaini07)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/UjjwalSaini07)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://ujjwalsaini07.github.io/Ujjwal_Portfolio/)
-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects! Open to new opportunities and challenges  
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects! Open to new opportunities and challenges  
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
@@ -77,7 +79,7 @@
  -->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
 
-<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_HandShake.gif" width="40"></h3>
+<h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="40"></h3>
 <p align="left">
 <a href="https://twitter.com/ujjwalsaini07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalsaini07" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16145422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16145422" height="30" width="40" /></a>
@@ -87,7 +89,7 @@
 <a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Flying_Cat.gif" width="38"></h3>
+<h3 align="left">Languages and Tools:<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Flying_Cat.gif" width="38"></h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="40"/> </a> 
@@ -109,7 +111,6 @@
 --->
 # **Github Stats:**
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  /> -->
   <img width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="200" />
@@ -153,18 +154,10 @@
 </div>
 </details>
 
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
 
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /></p>
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/neon-line.gif" width="3050">
-
-<h4 align = "center"> <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave++Star+Please" alt="Typing SVG"/> </a><img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="40">
+<h4 align = "center"> <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave++Star+Please" alt="Typing SVG"/> </a><img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Downward_Arrow.gif" width="40">
 </h4>
 
-
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_14.gif" width="30"> -->
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_15.gif" width="30"> -->
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_16.gif" width="30"> -->
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_17.gif" width="30"> -->
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_18.gif" width="30"> -->
-<!-- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Port_Shocking.gif" width="30"> -->
