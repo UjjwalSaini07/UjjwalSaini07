@@ -1,7 +1,8 @@
 <div align="center">
   <h1>
     <a href="https://github.com/UjjwalSaini07">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=38&pause=1000&color=EBA60E&center=true&vCenter=true&width=435&height=68&lines=Hii+There%2C+I'm+Ujjwal+%F0%9F%91%8B" alt="Ujjwal Hii" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&weight=700&size=38&pause=1000&color=EBA60E&center=true&vCenter=true&width=435&height=68&lines=Hii+There%2C+I'm+Ujjwal+%F0%9F%91%8B" alt="Ujjwal Hii" /> -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Ujjwal+Saini+😊" alt="Ujjwal Hii" />
     </a>
   </h1>
 </div>
