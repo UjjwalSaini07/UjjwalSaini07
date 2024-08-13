@@ -169,6 +169,14 @@
 </div>
 </details>
 
+
+<details>	
+ <summary><b>My Holopins Badges :</b></summary><br>
+  
+  [![An image of @ujjwalsaini07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalsaini07)](https://holopin.io/@ujjwalsaini07)
+  
+</details>
+
 ##
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
