@@ -80,7 +80,7 @@
 
 <a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/UjjwalSaini07">
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=10&theme=monokai"/>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai&title=-Experience"/>
 </a>
 ##
 
