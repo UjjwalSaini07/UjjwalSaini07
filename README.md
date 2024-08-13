@@ -68,7 +68,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-12%2008%202024-red)](https://github.com/UjjwalSaini07)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-13%2008%202024-red)](https://github.com/UjjwalSaini07)
 <a href="https://github.com/UjjwalSaini07">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
@@ -79,8 +79,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UjjwalSaini07&label=Profile%20views&color=0e75b6&style=flat" alt="UjjwalSaini07" /> </p> -->
 
 <a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/UjjwalSaini07/github-profile-trophy">
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai"/>
+<a href="https://github.com/UjjwalSaini07">
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=10&theme=monokai"/>
 </a>
 ##
 
