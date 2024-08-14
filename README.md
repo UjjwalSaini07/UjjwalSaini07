@@ -171,6 +171,12 @@
 
 
 <details>	
+ <summary><b>Github Homely Badges :</b></summary><br>
+
+   ![All Badge](Assets_Used/AllBadge.svg)
+</details>
+
+<details>	
  <summary><b>My Holopins Badges :</b></summary><br>
   
   [![An image of @ujjwalsaini07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalsaini07)](https://holopin.io/@ujjwalsaini07)
