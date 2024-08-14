@@ -169,11 +169,19 @@
 </div>
 </details>
 
-
 <details>	
  <summary><b>Github Homely Badges :</b></summary><br>
-
-   ![All Badge](Assets_Used/AllBadge.svg)
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+   <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Telescope.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Coding.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/StarFork.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Helping.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Discussion.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/PullMerge.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/CodeDeploy.svg" alt="Alt Text" width="80px" height="80px" />
+</a>
+</div>
 </details>
 
 <details>	
