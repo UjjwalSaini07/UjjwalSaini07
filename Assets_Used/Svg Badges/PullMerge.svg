@@ -1,33 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="50" width="50">
-    <defs>
-      <mask id="mask">
-        <circle r="25" cx="30" cy="30" fill="white"/>
-      </mask>
-    </defs>
-    <g class="gauge info">
-      <circle class="gauge-base" r="25" cx="30" cy="30"/>
-      <circle class="gauge-arc" transform="rotate(-90 30 30)" r="25" cx="30" cy="30" stroke-dasharray="28.040201005025125 155"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="52" width="52">
+  <!-- Circle Border -->
+  <circle cx="30" cy="30" r="28" fill="none" stroke="#2088FF" stroke-width="2"/>
+
+  <defs>
+    <mask id="mask">
+      <circle r="25" cx="30" cy="30" fill="white"/>
+    </mask>
+  </defs>
+  
+  <g class="gauge info">
+    <circle class="gauge-base" r="25" cx="30" cy="30"/>
+    <circle class="gauge-arc" transform="rotate(-90 30 30)" r="25" cx="30" cy="30" stroke-dasharray="28.040201005025125 155"/>
+  </g>
+  
+  <g mask="url(#mask)" transform="translate(-0.5,0.8)">
+    <g stroke-width="2" fill="none" fill-rule="evenodd">
+      <path d="M26.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM26.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+      <path stroke="#2088FF" d="M26.5 26.004v6.001"/>
+      <path d="M33.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L36 31" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+      <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M33.588 26.222l-2.194-2.046 2.046-2.194"/>
+      <path d="M31.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#2088FF"/>
     </g>
-    <g mask="url(#mask)" transform="translate(-0.5,0.8)">
-      <g stroke-width="2" fill="none" fill-rule="evenodd">
-        <path d="M26.503 22c1.109 0 2.007.895 2.007 2 0 1.104-.898 2-2.007 2a2.004 2.004 0 01-2.008-2c0-1.105.9-2 2.008-2zM26.5 32a2 2 0 110 4 2 2 0 010-4zm9.5 0a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-        <path stroke="#2088FF" d="M26.5 26.004v6.001"/>
-        <path d="M33.076 23.988l1.027-.023a1.998 1.998 0 011.932 2.01L36 31" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-        <path stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M33.588 26.222l-2.194-2.046 2.046-2.194"/>
-        <path d="M31.023 43c7.732 0 14-6.268 14-14s-6.268-14-14-14-14 6.268-14 14 6.268 14 14 14z" stroke="#2088FF"/>
-      </g>
-  <!--Plus and Minus symbols-->
-      <text x="31" y="10" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="32" y="48" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="15" y="40" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-      <text x="22" y="47" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-      <text x="15" y="19" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="21" y="12" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-      <text x="12" y="30" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="50" y="30" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="50" y="20" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-      <text x="42" y="13" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-      <text x="41" y="45" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
-      <text x="47" y="38" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
-    </g>
-  </svg>
+
+    <!-- Plus and Minus symbols -->
+    <text x="31" y="10" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="32" y="48" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="15" y="40" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+    <text x="22" y="47" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+    <text x="15" y="19" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="21" y="12" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+    <text x="12" y="30" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="50" y="30" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="50" y="20" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+    <text x="42" y="13" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+    <text x="41" y="45" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">+</text>
+    <text x="47" y="38" text-anchor="middle" stroke="#2088FF" stroke-width="1" dy=".3em" font-size="8">-</text>
+  </g>
+</svg>
