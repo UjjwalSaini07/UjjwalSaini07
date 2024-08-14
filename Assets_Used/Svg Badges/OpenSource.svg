@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3 3 50 50" height="47" width="47">
+    <defs>
+      <mask id="mask">
+        <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+      </mask>
+      <linearGradient id="greenGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#7CFC00"/>
+  <!--Light Green-->
+        <stop offset="50%" stop-color="#32CD32"/>
+  <!--Medium Green-->
+        <stop offset="100%" stop-color="#004d00"/>
+  <!--Dark Green-->
+      </linearGradient>
+      <linearGradient id="bluePurpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#00BFFF"/>
+  <!--Deep Sky Blue-->
+        <stop offset="50%" stop-color="#4169E1"/>
+  <!--Royal Blue-->
+        <stop offset="100%" stop-color="#8A2BE2"/>
+  <!--Blue Violet-->
+      </linearGradient>
+    </defs>
+    <circle class="gauge-base" r="25" cx="28" cy="28" fill="black"/>
+    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+      <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+        <g stroke="url(#greenGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M26.009 34.01c.444-.004.9.141 1.228.414.473.394.766.959.76 1.54-.01.735-.333 1.413-.97 2.037.66.718.985 1.4.976 2.048-.012.828-.574 1.58-1.687 2.258.624.788.822 1.549.596 2.28-.225.733-.789 1.219-1.69 1.459.703.833.976 1.585.82 2.256-.178.763-.313 1.716-2.492 1.711"/>
+          <path d="M18.548 28.422c1.184-4.303-2.132-5.292-2.132-5.292-.873 2.296-1.438 3.825-4.231 8.108-1.285 1.97-1.926 3.957-1.877 5.796"/>
+          <path d="M18.391 34.011L24.993 34c2.412-.009.211-.005-6.602.012zM5.004 37.017l5.234-.014-5.234.014z"/>
+          <path d="M7 48.012h4.01c1.352 1.333 2.672 2 3.961 2.001 0 0 .485-.005 5.46-.005h3.536"/>
+          <path d="M18.793 27.022c-.062.933-.373 2.082-.933 3.446-.561 1.364-.433 2.547.383 3.547"/>
+        </g>
+        <g stroke="url(#greenGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M45 16.156V23a2 2 0 01-2 2H31l-6 4v-4h-1.934M12 23V8a2 2 0 012-2h29a2 2 0 012 2v10"/>
+        </g>
+        <g stroke="url(#greenGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M23 12.014l-3 3 3 3M34 12.014l3 3-3 3"/>
+          <path d="M30.029 10l-3.015 10.027"/>
+        </g>
+        <g stroke="url(#greenGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M32 39h3l6 4v-4h8a2 2 0 002-2V22a2 2 0 00-2-2h.138"/>
+        </g>
+        <g stroke="url(#greenGradient)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M33 29h12M33 34h6M43 34h2"/>
+        </g>
+      </g>
+    </svg>
+  </svg>
