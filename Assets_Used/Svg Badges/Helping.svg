@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" height="48" width="48">
+    <defs>
+      <!-- Define the clipping path as a circle -->
+      <clipPath id="clip">
+        <circle r="22" cx="24" cy="24"/>
+      </clipPath>
+    </defs>
+    <!-- Circle with Border Color -->
+    <circle class="gauge-base" r="22" cx="24" cy="24" fill="black" stroke="#2088FF" stroke-width="1.5"/>
+    <!-- Inner Graphics -->
+    <g clip-path="url(#clip)" transform="scale(0.86) translate(3 6)">
+      <g fill="none" fill-rule="evenodd">
+        <path d="M24 33c1.003.005.997-.443 1-1 .004-1.458-.004-4.629 0-6-.007-.564-.068-.987-1-1-2.118 0-4 1.79-4 4s1.882 4 4 4zM44 33c-1.003.005-.997-.443-1-1-.004-1.458.004-4.629 0-6 .007-.564.068-.987 1-1 2.118 0 4 1.79 4 4s-1.882 4-4 4z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M22 45c.798-4.48 4.87-8.082 9.97-8.849.66-.1 1.338-.151 2.028-.151m9.606 4.038c1.27 1.408 2.12 3.102 2.396 4.945M28.002 33.71A8.966 8.966 0 0034 36a8.967 8.967 0 006.02-2.31m-.015-12.394A8.967 8.967 0 0034 19a8.966 8.966 0 00-5.994 2.286" stroke="#79B8FF" stroke-width="2" stroke-linecap="round"/>
+        <path d="M34 39c.17 0 .34-.004.509-.01 5.23-.219 9.596-3.785 11.01-8.613m-.004-6.766C44.052 18.634 39.45 15 34 15c-5.485 0-10.11 3.68-11.542 8.706" stroke="#2088FF" stroke-width="2"/>
+        <path d="M33.85 38h1.173c.54 0 .977.438.977.977v.523a1.5 1.5 0 01-3 0v-.65c0-.47.38-.85.85-.85z" fill="#2088FF"/>
+        <path d="M20 21h-3v4l-6-4H5a2 2 0 01-2-2V5a2 2 0 012-2h33a2 2 0 012 2v10" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <g stroke="#2088FF" stroke-linecap="round" stroke-width="2">
+          <path stroke-linejoin="round" d="M15 9l-3 3 3 3M28 9l3 3-3 3"/>
+          <path d="M23.03 6.986l-3.015 10.027"/>
+        </g>
+      </g>
+    </g>
+  </svg>
