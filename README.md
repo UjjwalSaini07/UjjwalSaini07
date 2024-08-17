@@ -56,7 +56,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalsaini07/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
   [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
-  [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)
+  [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/UjjwalSaini07)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](#)
@@ -68,7 +68,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-13%2008%202024-red)](https://github.com/UjjwalSaini07)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-17%2008%202024-red)](https://github.com/UjjwalSaini07)
 <a href="https://github.com/UjjwalSaini07">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
