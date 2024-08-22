@@ -106,6 +106,10 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+<h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,vue,c,cpp,django,arduino,mysql,materialui,threejs,gcp,bootstrap,tailwind,postman&perline=12)](https://skillicons.dev)
+
 # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
 <tr>
