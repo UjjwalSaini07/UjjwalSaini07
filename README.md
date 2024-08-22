@@ -137,15 +137,19 @@
   <img  width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
-  <!-- Languages Graph -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+  <!-- Github Theme Stats -->
+  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjwalSaini07&theme=radical" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
 <table width="100%" align="center">
 <td>
   <!-- Profile Summary -->
-  <img width="700em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjwalSaini07&theme=radical" alt="Profile Summary">
+  <img width="580em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjwalSaini07&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <!-- languages graph -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -158,7 +162,6 @@
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false">
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false">
