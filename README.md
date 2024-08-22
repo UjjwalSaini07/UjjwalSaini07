@@ -85,6 +85,7 @@
 <a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -105,10 +106,11 @@
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-4-logo.png" alt="java" width="45" height="40"/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
+-->
 
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,vue,c,cpp,django,arduino,mysql,materialui,threejs,gcp,bootstrap,tailwind,postman&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,vue,c,cpp,java,django,arduino,mysql,materialui,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://skillicons.dev)
 
 # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
