@@ -124,6 +124,34 @@
 <p><img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical" alt="GitHub Streak"/></p>
 --->
 # **📊 Github Stats:**
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
+</td>
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UjjwalSaini07&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+# **📊 Github Stats:**
 <div align="center">
   <img width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
