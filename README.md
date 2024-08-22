@@ -1,22 +1,14 @@
 <div align="center">
   <h1>
     <a href="https://github.com/UjjwalSaini07">
-<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&weight=700&size=38&pause=1000&color=EBA60E&center=true&vCenter=true&width=435&height=68&lines=Hii+There%2C+I'm+Ujjwal+%F0%9F%91%8B" alt="Ujjwal Hii" /> -->
       <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Ujjwal+Saini+😊" alt="Ujjwal Hii" />
     </a>
   </h1>
 </div>
-<!-- <h3 align="center">        A passionate frontend/backend developer from India <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Indian_Flag.gif"  width="40px"> </h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1200&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Ujjwal%F0%9F%91%8B">-->
 
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=600&height=48&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=472&height=48&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=610&height=48&lines=%20%20++++Always+learning,%20Continuously+evolving+in+Web+dev" alt="Typing SVG" /></a></h3>
-<!--
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=00FF00&vCenter=true&random=false&width=550&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
--->
-
 <!--%2FBackend &multiline=true-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -24,8 +16,6 @@
 <p align="left">
 
 [![Follow On Linkedin](https://img.shields.io/badge/Connect%20Me%20on-Linkedin-purple?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/ujjwalsaini07/)
-<!--[![Check My Profile](https://img.shields.io/badge/Check%20My-Portfolio-purple?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwIiB5PSIwIiB2aWV3Qm94PSIwIDAgNzAgNzAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3BhY2U9InByZXNlcnZlIiB3aWR0aD0iNzAiIGhlaWdodD0iNzAiPjxnPjxwYXRoIHN0eWxlPSJmaWxsOiNGOTU0Mjg7IiBkPSJNNjMuMzE5IDMyLjY1MmMyLjc2NyA0LjU2IDMuNDM5IDkuNjIxIDMuMDc3IDE0Ljg1NiAtMC4yMDkgMy4wMjQtMC43NTggNS45ODQtMS45NTcgOC43ODYgLTEuNTA4IDMuNTIxIC0zLjcwOCA2LjQ5NSAtNy40ODcgNy43MDUgLTYuNyAyLjE0NSAtMTIuODM0IC0wLjM2IC0xNC42MjEgLTguNTkzIC0wLjQ2IC0yLjExNyAtMC42NjkgLTQuMjYgLTAuMjExIC02LjQxMWwwLjA0IC0wLjAxNmMwLjEwNSAtMC40NjggMC43NTUgLTAuNTIyIDAuOTIxIC0wLjA3NSAwLjQyMyAxLjEzNiAxLjA2NyAyLjEyMSAxLjgzNCAzLjA0NCAyLjI0MSAyLjY5MyA1LjY0MiAzLjQzNCA5LjMyNCAyLjA1NSA0Ljg5IC0xLjgzMSA4LjAzMiAtNi4yNTYgOC4yOSAtMTEuNjI5IDAuMDgzIC0yLjI2MyAtMC4xNTQgLTQuNDk0IC0wLjkxMyAtNi42MzkzIC0xLjI1MiAzLjUzNSAtNS40OTIgNC43ODggLTguMzU5IDIuMzA4IC0xLjM2OCAxLjE4NCAtMi4zODkgMi43ODkgLTMuNDczIDQuMjcyIC0xLjE3OSAxLjYxMyAtMi4yMTcgMy4zMjcgLTMuMzc1IDQuOTU2IC0xLjE3MyAxLjY1NiAtMi42ODcgMi42MzEgLTQuNTg1IDIuODU1IC0wLjI4MyAwLjAzMiAtMS45NzkgMC4wMyAtMy41NDIgMC4wMjZhMS4zNTEgMS4zNTEgMCAwIDAgLTEuMjUgMS44NzggMTIuMjUgMTIuMjUgMCAwIDEgMC4yNjIgMC42NjhjMi4wMDkgNS42MDQgMi4wMzUgMTEuMDY5IC0xLjUzOSAxNi4xMDAyIC0xLjgzMSAyLjU3NCAtNC4xNzYgNC43MDggLTcuMzg3IDUuMzY4IC03LjA5MyAxLjQ1NyAtMTMuMDg2IC0wLjY1OCAtMTcuOTAyIC02LjAwOSAtNC4xNSAtNC42MTUgLTYuMTAyIC0xMC4xODMgLTYuNjc5IC0xNi4yNzkgLTAuMTQyIC0xLjQ5OSAtMC4xNTMgLTMuMDEyIC0wLjE3NSAtNC41MTl2LTAuMDE0Yy0wLjAwNiAtMC42MDQgMC44NTEgLTAuNzU4IDEuMDYzIC0wLjE5M2wwLjAxIDAuMDI0YzEuMDQ4IDIuOTg1IDEuOTYyIDYuMDIzIDMuMTYgOC45NDUgMS4wMDQgMi40NSAyLjMwNyA0LjgxMSA0LjYzMyA2LjMxMyAzLjU1MiAyLjI5NSA3LjUwNiAzLjAyNCAxMS42NiAyLjYzNCAxLjI5OCAtMC4xMjMgMi42MjUgLTAuNDM4IDMuODMyIC0wLjkyNyA0LjQyNiAtMS43OTggNi4wMTMgLTcuMTA5IDMuNDAzIC0xMS4xMiAtMS4yMyAtMS44OTQgLTMuMTM0IC0yLjUgLTUuMjM1IC0yLjYyMCAtMS4wNyAtMC4wNjEgLTIuMjM3IDAuNTE0IC0zLjIyNSAwLjA4OSAtMy43NTggLTEuNjI1IC00LjM5OCAtNS4yMzUgLTQuOTMxIC04LjU2OGExLjA1MyAxLjA1MyAwIDAgMSAxLjEyOSAtMS4yMTZjMC42OTEgMC4wNTggMS4zNjEgMC4xMTQgMi4wMjkgMC4xNzggMi4xMDkgMC4yMDEgNC4xODMgMC4xMCA2LjE5IC0wLjY1MCAxLjU3MyAtMC41ODggMi43MjYgLTEuNjUzIDMuNTUyIC0zLjEwMiBhMi4zMjggMi4zMjggMCAwIDAgLTAuMDMyIC0yLjMyOGMtMS40MjIgLTIuNDExIC0zLjUwOSAtMy4zNDkgLTYuMzY2IC0yLjgzNyAtMy4yODQgMC41OTEgLTYuMjM4IDIuMDQ2IC05LjE4NyAzLjUxNWwtMC4wMTIgMC4wMDZhMS40NjUgMS40NjUgMCAwIDAgLTEuOTA5IC0wLjU2bC0zLjIzIC01LjQwN2ExLjE5OSAxLjE5OSAwIDAgMSAwLjI2OSAtMS41NDdjMS4zNjggLTEuMTA0IDIuODA5IC0yLjA2OCA0LjQwMiAtMi44MDQgMy41MTUgLTEuNjIxIDcuMTk0IC0yLjU4NCAxMS4wODIgLTIuMzc3IDQuODY4IDAuMjU5IDguMTQ2IDMuMDQ3IDkuNDY2IDcuNzY2IDEuMDAzIDMuNTg1IC0wLjEyNSA2LjcyOSAtMS44NzIgOS43NjcgLTAuOTk3IDEuNzMyIC0yLjIwNyAzLjI2NiAtNC4wMzEgNC4yMTEgLTAuMTgzIDAuMDk1IC0wLjMzNSAwLjI1MyAtMC42NTQgMC40OTYgMS40NjMgMC41NjYgMi43NzUgMS4xOTMgNC4xNTMgMS41NzcgMS42OTUgMC40NzQgMy4zMTcgMC4wNDggNC40NjMgLTEuMjkyIDEuMDkyIC0xLjI3NiAyLjAxNyAtMi43MDYgMi45MTUgLTQuMTI5IDEuMjEyIC0xLjkyMiAyLjI1MSAtMy45NTkgMy41MDQgLTUuODUzIDIuMDA0IC0zLjAyOCA0Ljk0OCAtNC4yODQgOC41MzMgLTQuNTQxIDUuMjM5IC0wLjM3NyA4LjU1NiAyLjM3OCAxMS4wNCA2LjQ3NSIvPjxwYXRoIHN0eWxlPSJmaWxsOiNGOTU0Mjg7IiBkPSJNNTIuMjYxIDUuMjQzYTEuMDE1IDEuMDE1IDAgMCAxIDAgMS40MzVsLTQuOTQ2IDQuOTQ2YTEuMDE1IDEuMDE1IDAgMCAxIC0xLjQzNSAwbC00Ljk0NiAtNC45NDZhMS4wMTUgMS4wMTUgMCAwIDEgMCAtMS40MzVsNC45NjIgLTQuOTgyYTEuMDExIDEuMDExIDAgMCAxIDEuNDM1IDB6Ii8+PHBhdGggc3R5bGU9ImZpbGw6I0Y5NTQyODsiIGQ9Ik02MS4zNCAxNC40OTFjMC45MTcgMS4zNSAwLjgyNyAxLjcwMSAtMC40MTUgMi43MDcgLTMuNjA3IDIuOTIxIC03LjcwMSA0LjY0NyAtMTIuMzQ0IDUuMTI2IC0zLjc5NiAwLjM5MSAtNy4zMDUgLTAuMjA0IC0xMC4zNzIgLTIuNjAxIC0zLjUzOCAtMi43NjUgLTUuNjczIC02LjM0NCAtNi4xNzIgLTEwLjgzOSAtMC4wODggLTAuNzg0IDAuNTk5IC0xLjI2MCAwLjkyMyAtMC43MzYgMC45OTggMS42MTEgMi4yNzIgMi45OTAgMy43MyA0LjIyMiA0LjEzNCAzLjQ5NSA4LjY5NiA0LjAxOSAxMy41MDUgMS43NDUgMS45MjYgLTAuOTA5IDMuNjYyIC0yLjI0NCA1LjQyMSAtMy40NzYgMS42ODQgLTEuMTgyIDEuNjU4IC0xLjI0MiAyLjkzNiAwLjMwNCAwLjk1NSAxLjE2NSAxLjk1NCAxLjk1NCAyLjMwNSAyLjc5NyAzLjU0OCIvPjwvZz48L3N2Zz4=)](https://ujjwals-portfolio.vercel.app/)
--->
 </p>
 
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Shocking.gif?raw=true" width="25">I’m currently working on 
@@ -95,7 +85,7 @@
 <a href="mailto:ujjwalsaini1947@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="35" width="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_BulbYellow.gif?raw=true" width="40"></h3>
+<h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -116,7 +106,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-# <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="42px">**Github Stats:**
+# <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
 <tr>
 <td>
@@ -125,7 +115,7 @@
 </td>
 <td>
   <!-- Most Languages Used -->
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
 </td>
 </tr>
 </table>
@@ -133,7 +123,7 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
-  <img  width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
+  <img  width="438" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
@@ -153,24 +143,10 @@
 </tr>
 </table>
 
-<!-- Previous Temporary Save for emergancy
-# **📊 Github Stats:**
-<div align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api?username=UjjwalSaini07&show_icons=true&theme=radical&count_private=true&disable_animations=false&hide_border=false" height="176" alt="Ujjwal Saini GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UjjwalSaini07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=false&order=2" height="175" alt="languages graph"  />
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false">
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UjjwalSaini07&theme=radical&utcOffset=8&hide_border=false">
-</div>
--->
-
-# <img src="Assets_Used/Gifs/HeadGifs/Medal1.gif" width="40px">**Badges:**
+# <img src="Assets_Used/Gifs/HeadGifs/Medal1.gif" width="35px"> **Badges:**
 
 <details>	
- <summary><b>My Github Badges :</b></summary><br>
+ <summary><b>My Github Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
@@ -184,7 +160,7 @@
 </details>
 
 <details>	
- <summary><b>My GSSOC(24) Badges :</b></summary><br>
+ <summary><b>My GSSOC(24) Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
@@ -198,7 +174,7 @@
 </details>
 
 <details>	
- <summary><b>Github Homely Badges :</b></summary><br>
+ <summary><b>Github Homely Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
    <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
    <img src="Assets_Used/Svg Badges/Telescope.svg" alt="Alt Text" width="80px" height="80px" />
@@ -213,7 +189,7 @@
 </details>
 
 <details>	
- <summary><b>My Holopins Badges :</b></summary><br>
+ <summary><b>My Holopins Badges</b></summary><br>
   
   [![An image of @ujjwalsaini07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalsaini07)](https://holopin.io/@ujjwalsaini07)
   
