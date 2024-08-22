@@ -1,7 +1,6 @@
-<!--<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" style="display:inline zinde;">-->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" style="display:inline; z-index: 999; position: relative;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" style="display:inline; z-index: 999; position: relative;">
-<!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="14.3%" style="display:inline;"> -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline; z-index: 999; position: relative;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline; z-index: 999; position: relative;">
+
 <div align="center">
   <h1>
     <a href="https://github.com/UjjwalSaini07">
@@ -10,7 +9,7 @@
   </h1>
 </div>
 
-<br/>
+
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=600&height=48&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=472&height=48&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=610&height=48&lines=%20%20++++Always+learning,%20Continuously+evolving+in+Web+dev" alt="Typing SVG" /></a></h3>
