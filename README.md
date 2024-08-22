@@ -58,7 +58,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-21%2008%202024-red)](https://github.com/UjjwalSaini07)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-22%2008%202024-red)](https://github.com/UjjwalSaini07)
 <a href="https://github.com/UjjwalSaini07">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
@@ -110,7 +110,7 @@
 
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,vue,c,cpp,java,django,arduino,mysql,materialui,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,java,django,arduino,mysql,materialui,threejs,gcp,bootstrap,tailwind,postman&perline=9)](https://skillicons.dev)
 
 # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
