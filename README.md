@@ -78,12 +78,11 @@
 <!-- For EMERGENCY Profile Views Badge -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UjjwalSaini07&label=Profile%20views&color=0e75b6&style=flat" alt="UjjwalSaini07" /> </p> -->
 
-<a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2><img src="/Assets_Used/Gifs/HeadGifs/Tropy.gif" width="40px"> Github Profile Trophy</h2></a>
 <a href="https://github.com/UjjwalSaini07">
   <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai&title=-Experience"/>
 </a>
 ##
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&theme=monokai" alt="UjjwalSaini07" /></a> </p>
  -->
 <img align='right' src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif"  width="385">
@@ -117,7 +116,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-# **📊 Github Stats:**
+# <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="42px">**Github Stats:**
 <table width="100%" align="center">
 <tr>
 <td>
@@ -168,9 +167,7 @@
 </div>
 -->
 
-<br/>
-
-# **🎖Badges:**
+# <img src="Assets_Used/Gifs/HeadGifs/Medal1.gif" width="40px">**Badges:**
 
 <details>	
  <summary><b>My Github Badges :</b></summary><br>
