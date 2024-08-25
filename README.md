@@ -134,11 +134,11 @@
 <tr>
 <td>
   <!-- For 3 Column Table -->
-  <img  width="438" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
+  <img  width="448" src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalSaini07&theme=radical&hide_border=false&width=300&height="175" />
 </td>
 <td>
   <!-- Github Theme Stats -->
-  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjwalSaini07&theme=radical" alt="Github Theme Stats">
+  <img width="310em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UjjwalSaini07&theme=radical" alt="Github Theme Stats">
 </td>
 </tr>
 </table>
