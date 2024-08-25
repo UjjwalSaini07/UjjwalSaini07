@@ -157,7 +157,9 @@
 <details>	
  <summary><b>Github Chart</b></summary><br>
 
+<div align="center">
   <img alt="Ujjwal Github Chart" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=UjjwalSaini07&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=false&hide_title=false"/>
+</div>
 
 </details>
 
