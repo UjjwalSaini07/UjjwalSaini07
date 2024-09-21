@@ -151,7 +151,7 @@
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
   <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
-  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/open-sourcerer-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
 </a>
 </div>
 </details>
