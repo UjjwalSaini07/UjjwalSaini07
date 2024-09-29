@@ -10,7 +10,6 @@
   </h1>
 </div>
 
-
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=FF4500&vCenter=true&random=false&width=600&height=48&lines=%20%20++++A+passionate+Frontend+Developer+from+India" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=f8f8f8&vCenter=true&random=false&width=472&height=48&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
 <h3 align="center" ><a href="https://github.com/UjjwalSaini07"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=38&pause=1100&color=00FF00&vCenter=true&random=false&width=610&height=48&lines=%20%20++++Always+learning,%20Continuously+evolving+in+Web+dev" alt="Typing SVG" /></a></h3>
@@ -60,7 +59,6 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/UjjwalSaini07)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://ujjwalsaini07.github.io/Ujjwal_Portfolio/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
-<!--Open to new opportunities and challenges.-->
 
 ![](https://komarev.com/ghpvc/?username=UjjwalSaini07&color=blueviolet&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=UjjwalSaini07.UjjwalSaini07&right_color=orange&left_text=Visits)
