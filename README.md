@@ -46,7 +46,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:ujjwalsaini1947+github@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-UjjwalSaini-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:ujjwalsaini0007+github@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwalsaini07/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingLove.gif" width="25">Show Some Love On Clicking
   [![Amazon Pay](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=flat&logo=Amazon-Pay&logoColor=white)](https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Ujjwal_AmazonPay_page-0001.jpg?raw=true)
