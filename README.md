@@ -168,6 +168,13 @@
 </details>
 
 <details>	
+ <summary><b>Leetcode Badges</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <img src="" alt="Leetcode 50 Days Badge" width="80px" height="80px" />
+</div>
+</details>
+
+<details>	
  <summary><b>Github Homely Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
    <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
