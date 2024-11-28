@@ -170,7 +170,7 @@
 <details>	
  <summary><b>Leetcode Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-   <img src="" alt="Leetcode 50 Days Badge" width="80px" height="80px" />
+   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
 </div>
 </details>
 
