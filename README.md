@@ -70,7 +70,7 @@
 <!-- For EMERGENCY Profile Views Badge -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=UjjwalSaini07&label=Profile%20views&color=0e75b6&style=flat" alt="UjjwalSaini07" /> </p> -->
 
-<a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2><img src="/Assets_Used/Gifs/HeadGifs/Tropy.gif" width="40px"> Github Profile Trophy</h2></a>
+<a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2><img src="/Assets_Used/Gifs/HeadGifs/Tropy.gif" width="50px"> Github Profile Trophy</h2></a>
 <a href="https://github.com/UjjwalSaini07">
   <img width=900 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai&title=-Experience,-Issues"/>
 </a>
