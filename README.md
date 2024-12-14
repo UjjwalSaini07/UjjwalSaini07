@@ -72,7 +72,7 @@
 
 <a href="https://github.com/UjjwalSaini07/github-profile-trophy"><h2><img src="/Assets_Used/Gifs/HeadGifs/Tropy.gif" width="40px"> Github Profile Trophy</h2></a>
 <a href="https://github.com/UjjwalSaini07">
-  <img width=960 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai&title=-Experience,-Issues"/>
+  <img width=960 src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&column=9&theme=monokai&title=-Experience"/>
 </a>
 ##
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UjjwalSaini07&theme=monokai" alt="UjjwalSaini07" /></a> </p>-->
@@ -89,7 +89,7 @@
 <h3 align="left">Languages and Tools: <img src="/Assets_Used/Gifs/HeadGifs/rocketemoji.gif" width="25px"> </h3>
 
 <!-- Take a refernce from this : https://github.com/tandpfun/skill-icons#readme -->
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/UjjwalSaini07)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,django,arduino,mysql,mongodb,materialui,git,githubactions,md,nodejs,sass,vite,threejs,gcp,bootstrap,tailwind,postman&perline=8)](https://github.com/UjjwalSaini07)
 
 # <img src="Assets_Used/Gifs/HeadGifs/sparkles.gif" width="40px">**Github Stats:**
 <table width="100%" align="center">
