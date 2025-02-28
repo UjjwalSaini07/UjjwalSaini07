@@ -177,6 +177,8 @@
  <summary><b>Leetcode Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
    <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
 </div>
 </details>
 
