@@ -147,6 +147,54 @@
 
 # <img src="Assets_Used/Gifs/HeadGifs/Medal1.gif" width="35px"> **Badges:**
 
+### My Github Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/quickdraw-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pair-extraordinaire-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/yolo-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/pull-shark-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/starstruck-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/heart-on-your-sleeve-default.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Github%20Badges/galaxy-brain-default.png?raw=true" width="100px" height="100px" />
+</a>
+</div>
+
+### My GSSOC(24) Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge1.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge2.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge3.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge4.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge5.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/Badge6.png?raw=true" width="100px" height="100px" />
+  <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/GSsocBadges/PostMan.png?raw=true" width="100px" height="100px" />
+</a>
+</div>
+
+### My Leetcode Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+   <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+</div>
+
+### Github Homely Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
+   <img src="Assets_Used/Svg Badges/Connection.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Telescope.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Coding.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/StarFork.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Helping.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/Discussion.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/PullMerge.svg" alt="Alt Text" width="80px" height="80px" />
+   <img src="Assets_Used/Svg Badges/CodeDeploy.svg" alt="Alt Text" width="80px" height="80px" />
+</a>
+</div>
+
+### My Holopins Badges
+[![An image of @ujjwalsaini07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalsaini07)](https://holopin.io/@ujjwalsaini07)
+
+<!--
 <details>	
  <summary><b>My Github Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/UjjwalSaini07">
@@ -205,6 +253,7 @@
   [![An image of @ujjwalsaini07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwalsaini07)](https://holopin.io/@ujjwalsaini07)
   
 </details>
+-->
 
 ##
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
