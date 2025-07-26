@@ -174,7 +174,8 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
    <img src="Assets_Used/LeetCodeBadges/2024-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
    <img src="Assets_Used/LeetCodeBadges/25-50.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
-   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-100.gif?raw=true" alt="Leetcode 100 Days Badge" width="100px" height="100px" />
+   <img src="Assets_Used/LeetCodeBadges/25-200.gif?raw=true" alt="Leetcode 200 Days Badge" width="100px" height="100px" />
    <img src="Assets_Used/LeetCodeBadges/StreakCoin.gif?raw=true" alt="Leetcode 50 Days Badge" width="100px" height="100px" />
 </div>
 
